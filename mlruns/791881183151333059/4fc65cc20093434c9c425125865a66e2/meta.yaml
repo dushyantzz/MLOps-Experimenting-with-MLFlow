@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/791881183151333059/4fc65cc20093434c9c425125865a66e2/artifacts
+end_time: 1735061190627
+entry_point_name: ''
+experiment_id: '791881183151333059'
+lifecycle_stage: active
+run_id: 4fc65cc20093434c9c425125865a66e2
+run_name: persistent-doe-4
+run_uuid: 4fc65cc20093434c9c425125865a66e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735061190302
+status: 3
+tags: []
+user_id: Shubham

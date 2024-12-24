@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/791881183151333059/de6394b899834bbfad6af84248e97273/artifacts
+end_time: 1735060147521
+entry_point_name: ''
+experiment_id: '791881183151333059'
+lifecycle_stage: active
+run_id: de6394b899834bbfad6af84248e97273
+run_name: mercurial-tern-972
+run_uuid: de6394b899834bbfad6af84248e97273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735060141337
+status: 3
+tags: []
+user_id: Shubham

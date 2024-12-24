@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/791881183151333059/7e27ec4310664a428938e6cff1d119bc/artifacts
+end_time: 1735060584140
+entry_point_name: ''
+experiment_id: '791881183151333059'
+lifecycle_stage: active
+run_id: 7e27ec4310664a428938e6cff1d119bc
+run_name: nervous-colt-480
+run_uuid: 7e27ec4310664a428938e6cff1d119bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735060584078
+status: 3
+tags: []
+user_id: Shubham

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/791881183151333059/d7e9a0ee62b948c293580a84a3eb6d29/artifacts
+end_time: 1735067290951
+entry_point_name: ''
+experiment_id: '791881183151333059'
+lifecycle_stage: active
+run_id: d7e9a0ee62b948c293580a84a3eb6d29
+run_name: bouncy-snipe-209
+run_uuid: d7e9a0ee62b948c293580a84a3eb6d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067290597
+status: 3
+tags: []
+user_id: Shubham
