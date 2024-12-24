@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/c2f1a55b51a4404f9a971a740d1b8b80/artifacts
+end_time: 1735067936646
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: c2f1a55b51a4404f9a971a740d1b8b80
+run_name: masked-fox-77
+run_uuid: c2f1a55b51a4404f9a971a740d1b8b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067936600
+status: 3
+tags: []
+user_id: Shubham

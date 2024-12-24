@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/a6c3e7606a77429391e0a0b49495389a/artifacts
+end_time: 1735067937036
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: a6c3e7606a77429391e0a0b49495389a
+run_name: wise-dolphin-310
+run_uuid: a6c3e7606a77429391e0a0b49495389a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067936988
+status: 3
+tags: []
+user_id: Shubham

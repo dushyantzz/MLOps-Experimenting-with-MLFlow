@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/acad16f4f10445c8b84ae902c40a5b66/artifacts
+end_time: 1735067936886
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: acad16f4f10445c8b84ae902c40a5b66
+run_name: legendary-wolf-565
+run_uuid: acad16f4f10445c8b84ae902c40a5b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067936835
+status: 3
+tags: []
+user_id: Shubham

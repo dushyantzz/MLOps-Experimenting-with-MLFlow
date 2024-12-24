@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/fe2568d67c18401a84eb609a0376de5e/artifacts
+end_time: 1735067936777
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: fe2568d67c18401a84eb609a0376de5e
+run_name: indecisive-dove-511
+run_uuid: fe2568d67c18401a84eb609a0376de5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067936736
+status: 3
+tags: []
+user_id: Shubham

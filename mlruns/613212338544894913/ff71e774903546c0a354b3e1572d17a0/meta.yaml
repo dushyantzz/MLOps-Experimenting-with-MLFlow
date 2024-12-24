@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/ff71e774903546c0a354b3e1572d17a0/artifacts
+end_time: 1735067937147
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: ff71e774903546c0a354b3e1572d17a0
+run_name: wistful-zebra-790
+run_uuid: ff71e774903546c0a354b3e1572d17a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067937092
+status: 3
+tags: []
+user_id: Shubham

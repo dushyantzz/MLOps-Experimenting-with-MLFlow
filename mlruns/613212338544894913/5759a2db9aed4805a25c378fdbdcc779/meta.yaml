@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/5759a2db9aed4805a25c378fdbdcc779/artifacts
+end_time: 1735067936830
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: 5759a2db9aed4805a25c378fdbdcc779
+run_name: amusing-roo-186
+run_uuid: 5759a2db9aed4805a25c378fdbdcc779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067936783
+status: 3
+tags: []
+user_id: Shubham

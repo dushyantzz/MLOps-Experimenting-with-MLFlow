@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/1a9a05bae99c4cb59a3464c8465a05f9/artifacts
+end_time: 1735067936939
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: 1a9a05bae99c4cb59a3464c8465a05f9
+run_name: blushing-wasp-356
+run_uuid: 1a9a05bae99c4cb59a3464c8465a05f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067936892
+status: 3
+tags: []
+user_id: Shubham

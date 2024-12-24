@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/74e6b668fe6d453db9e8ad905c2118ef/artifacts
+end_time: 1735067937085
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: 74e6b668fe6d453db9e8ad905c2118ef
+run_name: sneaky-lynx-583
+run_uuid: 74e6b668fe6d453db9e8ad905c2118ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067937037
+status: 3
+tags: []
+user_id: Shubham

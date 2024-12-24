@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/6061889d71994de789cb4811c14d9d14/artifacts
+end_time: 1735067936988
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: 6061889d71994de789cb4811c14d9d14
+run_name: skittish-trout-877
+run_uuid: 6061889d71994de789cb4811c14d9d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067936947
+status: 3
+tags: []
+user_id: Shubham

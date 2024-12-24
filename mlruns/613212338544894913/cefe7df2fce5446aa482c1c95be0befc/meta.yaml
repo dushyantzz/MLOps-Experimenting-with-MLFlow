@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/MLOps/MLOps-Experimenting-with-MLFlow/mlruns/613212338544894913/cefe7df2fce5446aa482c1c95be0befc/artifacts
+end_time: 1735067936678
+entry_point_name: ''
+experiment_id: '613212338544894913'
+lifecycle_stage: active
+run_id: cefe7df2fce5446aa482c1c95be0befc
+run_name: unleashed-rook-664
+run_uuid: cefe7df2fce5446aa482c1c95be0befc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735067936647
+status: 3
+tags: []
+user_id: Shubham
